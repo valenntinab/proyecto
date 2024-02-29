@@ -1,0 +1,64 @@
+@charset "utf-8";
+#Principal {
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#Principal #encabezado {
+    width: 1000px;
+    height: 100px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    background-color: #FFFFFF;
+}
+#menu {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    height: 50px;
+    width: 1000px;
+}
+#cuerpo{
+	background: #57C9AB;
+	width: 1000px;
+	text-align: center;
+}
+#pie{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 35px;
+	font-style: italic;
+	background: #FFFFFF;
+	height: 180px;
+	width: 1000px;
+}
+#logo{
+	width: 100px;
+	height: 100px;
+	background: #CFFFF8;
+	float:left;
+}
+#titulo{
+	width: 900px;
+	height: 100px;
+	background: #FFFFFF;
+	float: left;
+}
+#derechos{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	width: 500px;
+	height: 180px;
+	float: left;
+	
+}
+#redes{
+	width: 500px;
+	height: 180px;
+	float: left;
+}
+.logo{
+	width: 165px;
+	height: 100px;
+}
+/* CSS Document */
+
